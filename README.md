@@ -39,7 +39,7 @@ The deep learning model with the GRU layer consistently achieves top-tier perfor
 | Metric | Result |
 | :--- | :--- |
 | **Training Accuracy** | **99.5%** |
-| **Validation Accuracy** | **98.8%** |
+| **Validation Accuracy** | **86.5%** |
 | **Model Type** | **GRU-based RNN** |
 
 The high accuracy indicates the model's strong ability to generalize and effectively distinguish between legitimate and spam messages in a real-world context.
